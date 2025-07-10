@@ -1,1 +1,29 @@
+body {
+  background-color: #fce4ec;
+  font-family: 'Comic Sans MS', cursive;
+  text-align: center;
+  padding: 50px;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+h1 {
+  font-size: 3em;
+  color: #e91e63;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.2em;
+  background-color: #e91e63;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
 
